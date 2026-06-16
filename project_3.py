@@ -41,7 +41,7 @@ for item in items:
 
 # 2. USER INPUT
 # Minimum 4 preferences
-print("===== Recommendation System =====")
+print("Recommendation System")
 preferences = []
 
 for i in range(4):
